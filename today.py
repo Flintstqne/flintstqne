@@ -22,6 +22,12 @@ HEADERS = {'Authorization': 'bearer ' + TOKEN}
 API = 'https://api.github.com/graphql'
 CACHE_FILE = 'cache/' + hashlib.sha256(USER_NAME.encode()).hexdigest() + '.json'
 ALL_AFFILIATIONS = ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER']
+# sha256('owner/name') of repos whose lines are not counted (their commits still are).
+# Hashes, not names, because this file is public and the repos are private.
+LOC_EXCLUDE = {
+    '6700f163fb9723d72a25de7e83f7e004d9bbf81f653cdb4f96008f3b86bd2be7',
+    'e8499d956630957fe883a529c796b38c2788f46ea141d2229e7ea5cd4bda2c8e',
+}
 CALLS = 0
 
 
@@ -135,8 +141,8 @@ def loc_totals(repos, owner_id):
         cache[key] = {'total_commits': repo['commits'], 'my_commits': mine, 'adds': adds, 'dels': dels}
         save_cache(cache)
     save_cache(cache)
-    adds = sum(v['adds'] for v in cache.values())
-    dels = sum(v['dels'] for v in cache.values())
+    adds = sum(v['adds'] for k, v in cache.items() if k not in LOC_EXCLUDE)
+    dels = sum(v['dels'] for k, v in cache.items() if k not in LOC_EXCLUDE)
     mine = sum(v['my_commits'] for v in cache.values())
     return adds, dels, mine
 
