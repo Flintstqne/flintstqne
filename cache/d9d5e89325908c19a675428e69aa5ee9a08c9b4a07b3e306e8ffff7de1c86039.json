@@ -1,0 +1,236 @@
+{
+ "10e422cb90c00ba1b6d2bb0aec2deb7f3529b56c0cf56996d8087102c9c103b6": {
+  "adds": 0,
+  "dels": 0,
+  "my_commits": 0,
+  "total_commits": 16318
+ },
+ "15f48dfae18881664ebb558f8ba03c1e38d799057a37cb21503682918a7263a5": {
+  "adds": 78,
+  "dels": 6,
+  "my_commits": 5,
+  "total_commits": 1356
+ },
+ "303f9137290e1bd6c68e7a5bd9e21f085029a0b3b0bd28e3e6b623fe2fb33391": {
+  "adds": 22023,
+  "dels": 3239,
+  "my_commits": 63,
+  "total_commits": 130
+ },
+ "37d06a359ebdf10be73bb26979ba89c000fd216b695e0111af5e3b5f4d133e52": {
+  "adds": 861,
+  "dels": 5,
+  "my_commits": 4,
+  "total_commits": 4
+ },
+ "3d928e57107585c1acd7c2d8360d583627e19c0b1d35d82ffacc473fc4d108a6": {
+  "adds": 3842,
+  "dels": 607,
+  "my_commits": 9,
+  "total_commits": 198
+ },
+ "418a1ea8c711fa6383a018f387d696187c9ed17ff6469e23285b9596d9c236c7": {
+  "adds": 1109,
+  "dels": 1,
+  "my_commits": 5,
+  "total_commits": 5
+ },
+ "4fdc003fe7395256a8623a6723d96e3806401135d2166b92daa194a57a750984": {
+  "adds": 1,
+  "dels": 1,
+  "my_commits": 1,
+  "total_commits": 86
+ },
+ "544113ec3294e5fed38eeccb98029f7dd2b66ac8642c5439d0d4dfae502dff5e": {
+  "adds": 12,
+  "dels": 0,
+  "my_commits": 2,
+  "total_commits": 33
+ },
+ "6700f163fb9723d72a25de7e83f7e004d9bbf81f653cdb4f96008f3b86bd2be7": {
+  "adds": 210119,
+  "dels": 6441,
+  "my_commits": 95,
+  "total_commits": 95
+ },
+ "6a84476c04f1125f821b88f9c723013a5726287504418737cd51cc1bc128fab2": {
+  "adds": 0,
+  "dels": 0,
+  "my_commits": 0,
+  "total_commits": 3
+ },
+ "6f2110a1852b6f91c9c3e016e4a38f2b73e799b108dcd78381314413caab6838": {
+  "adds": 284,
+  "dels": 0,
+  "my_commits": 2,
+  "total_commits": 2
+ },
+ "7ffd0a2877f6f398adaffba662bdf50d1f80cdfd96c23d2b3e81c4b5e1ecbeaa": {
+  "adds": 307,
+  "dels": 0,
+  "my_commits": 1,
+  "total_commits": 1
+ },
+ "85f82e4951e825caa1ccdba948069aa9df411229d652ccbe1aac763539c14abd": {
+  "adds": 557,
+  "dels": 0,
+  "my_commits": 1,
+  "total_commits": 1
+ },
+ "8fa11c3f14ed6c89318f522f8404a0d21093c0cd49b3458984cfbf9fe12c9839": {
+  "adds": 0,
+  "dels": 0,
+  "my_commits": 0,
+  "total_commits": 74
+ },
+ "92d4f918f5cb2c82166a1124195e81abcd4f5bcd721f3fdd750017f9791da36b": {
+  "adds": 840,
+  "dels": 45,
+  "my_commits": 5,
+  "total_commits": 5
+ },
+ "95147a83b6ed0a9e9ccd652b7c52f6917dada0368c7db6b948191b5ca5b4828b": {
+  "adds": 1914,
+  "dels": 27,
+  "my_commits": 4,
+  "total_commits": 4
+ },
+ "95c6d58f46de97ec17060a9be956be3cb60490cf5e3982aa63e5d4d15e98cb9b": {
+  "adds": 113,
+  "dels": 33,
+  "my_commits": 1,
+  "total_commits": 19
+ },
+ "9e0d7df11e53b2622ef78859404dec924adee7cc85cad0f074f3da64df5cf458": {
+  "adds": 57946,
+  "dels": 3950,
+  "my_commits": 33,
+  "total_commits": 33
+ },
+ "a5ba891802e47b75a32d590176217a99260d4a2f796320af297ac19ea0431c03": {
+  "adds": 92468,
+  "dels": 9838,
+  "my_commits": 7,
+  "total_commits": 13
+ },
+ "a91d34fa5d7af0222fd3c7117d18cdda64b6749d02ec6cad0ccf0d9665a1bc21": {
+  "adds": 66011,
+  "dels": 18189,
+  "my_commits": 74,
+  "total_commits": 76
+ },
+ "abc5fd919013bc034da887bc7c728ca21674ae8d44a7ad6a2a161d5249a68335": {
+  "adds": 34288,
+  "dels": 5853,
+  "my_commits": 55,
+  "total_commits": 59
+ },
+ "af43ed0cb5f6f36674fe7210013360114af68537135a564081c8d2f2a1702b6e": {
+  "adds": 0,
+  "dels": 0,
+  "my_commits": 0,
+  "total_commits": 164
+ },
+ "b04db54bd111f5612f336340ca9855e62085d857ad5f91b112cae7364f7034de": {
+  "adds": 0,
+  "dels": 0,
+  "my_commits": 0,
+  "total_commits": 446
+ },
+ "b641327110c42192f8b1b52f4901ade578347cb3489f457e05a4d28201bbfc76": {
+  "adds": 0,
+  "dels": 0,
+  "my_commits": 0,
+  "total_commits": 1813
+ },
+ "b6a44e0b03fc1b4b818dad62e6073244a49887ef638b59287aed192ebdbd4905": {
+  "adds": 514,
+  "dels": 3,
+  "my_commits": 4,
+  "total_commits": 4
+ },
+ "bc08b4b38e33e7a498c087e15e1233ecd5bd669627aedae79880024275670a07": {
+  "adds": 20671,
+  "dels": 2620,
+  "my_commits": 27,
+  "total_commits": 29
+ },
+ "c00ffe7ef033bf3f6de4db57aefcb549df350b711df06f49859bf4633964d934": {
+  "adds": 351,
+  "dels": 45,
+  "my_commits": 2,
+  "total_commits": 2
+ },
+ "c10cdb797b130e9d04bb66aa78c5cc66fafe582f29192471d06a557228eafe6b": {
+  "adds": 205,
+  "dels": 30,
+  "my_commits": 2,
+  "total_commits": 9
+ },
+ "c4cc2b1dbbab76b816bae63af3a5a4a7fb59a77177787f8fc4387d15963d5837": {
+  "adds": 9425,
+  "dels": 1049,
+  "my_commits": 5,
+  "total_commits": 5
+ },
+ "c7ce0b507404fec70817da7eea3a86b45ec7360e99d24831834c5a0140a07989": {
+  "adds": 0,
+  "dels": 0,
+  "my_commits": 0,
+  "total_commits": 40
+ },
+ "c91dd63c76d519bf63691dd2986ccfe0f31fdbb716cbca4bf087e9d53bdaa473": {
+  "adds": 20198,
+  "dels": 140,
+  "my_commits": 12,
+  "total_commits": 12
+ },
+ "d351ac19ee6bfbc151c98902f36262b126b486223950ad852a4bcca0a23276ac": {
+  "adds": 70394,
+  "dels": 15064,
+  "my_commits": 28,
+  "total_commits": 30
+ },
+ "d3c306c189ed265bdd2523c5521850d236a841495f04d57fdbc1ddd06019ce2b": {
+  "adds": 1522,
+  "dels": 341,
+  "my_commits": 5,
+  "total_commits": 7
+ },
+ "e36a18faf788d1f334087e49599c381af9d621106287c88d76970f70bdb9e11a": {
+  "adds": 214,
+  "dels": 0,
+  "my_commits": 1,
+  "total_commits": 1
+ },
+ "e8499d956630957fe883a529c796b38c2788f46ea141d2229e7ea5cd4bda2c8e": {
+  "adds": 103507,
+  "dels": 1,
+  "my_commits": 4,
+  "total_commits": 5
+ },
+ "ea23ae0fbf36263b45540ab02cd46bf5bca10339bcdc1c4f1da3ee57a561173e": {
+  "adds": 13475,
+  "dels": 1615,
+  "my_commits": 14,
+  "total_commits": 14
+ },
+ "eff7c37274a83580b700058391d43f8ffe1210ddaffeda24e6651e07d1453fdc": {
+  "adds": 267,
+  "dels": 4,
+  "my_commits": 1,
+  "total_commits": 2386
+ },
+ "f11d5135a04e508f61b04d72a5607810146124287da9916ef6de28adf6e9cf66": {
+  "adds": 5751,
+  "dels": 144,
+  "my_commits": 9,
+  "total_commits": 9
+ },
+ "fdf3cdc8905d85e9098babd6c942d0d30c98aaf09ba80fa4522876788af6c301": {
+  "adds": 0,
+  "dels": 0,
+  "my_commits": 0,
+  "total_commits": 54
+ }
+}
